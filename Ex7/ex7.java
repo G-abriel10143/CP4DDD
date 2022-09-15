@@ -4,14 +4,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/*
- * 7. Vamos fazer um sistema de cadastro de contas. 
- * O sistema deve ter as op��es Conta Corrente, Conta Poupan�a e Conta Sal�rio. 
- * Implemente o conceito de Heran�a e Interface nesse sistema. 
- * Fa�a o Diagrama de Classe (UML) desse sistema tamb�m.
- */
-
-
 public class Ex7 {
 	
 	
